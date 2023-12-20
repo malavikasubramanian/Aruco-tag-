@@ -22,10 +22,11 @@ This repository includes Python scripts for working with ArUco tags, allowing us
 Prerequisites
 Ensure that you have the following dependencies installed:
 
-Python (version >= 3.6)
-OpenCV
-NumPy
-imutils
+> Python (version >= 3.6)
+> OpenCV
+> NumPy
+> imutils
+
 Install the required Python packages using the provided requirements.txt file.
 
 Instructions
